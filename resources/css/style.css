@@ -11,7 +11,8 @@ body {
   font-size: 1rem;
   text-align: justify;
   line-height: 1.5rem;
-  padding-top: 70px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 h1 {
@@ -24,6 +25,7 @@ h2 {
   font-family: "Suez One", serif;
   font-size: 1.1rem;
   margin: 1rem 0;
+  text-align: center;
 }
 
 a {
@@ -41,7 +43,6 @@ a {
 }*/
 
 
-/* main */
 
 
 
@@ -62,4 +63,13 @@ nav .container-fluid {
 
 nav a:hover {
   color: white;
+}
+
+
+/* footer */
+
+.footer {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin-top: 20px;
 }
