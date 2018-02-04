@@ -1,0 +1,65 @@
+/* styles universels */
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: #dcdcdc;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  text-align: justify;
+  line-height: 1.5rem;
+  padding-top: 70px;
+}
+
+h1 {
+  font-family: "Suez One", serif;
+  font-size: 2.5rem;
+  margin: 1rem 0;
+}
+
+h2 {
+  font-family: "Suez One", serif;
+  font-size: 1.1rem;
+  margin: 1rem 0;
+}
+
+a {
+  color: black;
+}
+
+/*a:hover {
+  font-family: "Suez One", serif;
+}*/
+
+/* container */
+
+/*.container {
+  display: flex;
+}*/
+
+
+/* main */
+
+
+
+/* nav */
+
+nav {
+  font-family: "Suez One", serif;
+  font-size: 20px;
+}
+
+nav .container-fluid {
+  background-color: #dcdcdc;
+}
+
+.navbar a {
+  color: #000;
+}
+
+nav a:hover {
+  color: white;
+}
